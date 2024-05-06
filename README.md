@@ -1,2 +1,1 @@
-# Smart_DRY_CLEANER
- Conception d'une application dédiée à la gestion d'un service de pressing
+# SMART_DRY_CLEANER_2A5
